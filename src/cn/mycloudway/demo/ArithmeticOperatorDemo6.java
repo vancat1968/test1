@@ -9,6 +9,8 @@ public class ArithmeticOperatorDemo6 {
         System.out.println(x);
         System.out.println(y);
         System.out.println(z);
+
+
         System.out.println(z+y+x);
         System.out.println(x+y);
     }
